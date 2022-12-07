@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
+          "version": "4.0.4"
+        }
+      },
+      {
+        "package": "WatsonDeveloperCloud",
+        "repositoryURL": "https://github.com/watson-developer-cloud/swift-sdk",
+        "state": {
+          "branch": null,
+          "revision": "e878a17083251b939ae37714273ddbb00e071820",
+          "version": "4.3.0"
+        }
+      },
+      {
+        "package": "IBMSwiftSDKCore",
+        "repositoryURL": "https://github.com/IBM/swift-sdk-core",
+        "state": {
+          "branch": null,
+          "revision": "652ff3cc98af7adb8130863fd7de7ab1e734e795",
+          "version": "1.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
