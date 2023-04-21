@@ -5,7 +5,7 @@ Swiftly is an easy-to-use iPadOS based application that was developed from Septe
 
 ### Information
 :hourglass: Incorporates real-time data integration with backend Firebase/Firestore<br>
-:eyes: Achieved constructive feedback from industry professionals<br>
+:eyes: Incorporated test cases to provide future scaling<br>
 :iphone: Works hand-in-hand with the Swiftly website allowing for asynchronous use (*not shown*)
 
 ### Frameworks & Technologies
