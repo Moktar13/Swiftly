@@ -16,5 +16,4 @@ Features: Account sign up and login, integrated chatbot, real-time leaderboard, 
 
 ### How it looks
 ![image](https://user-images.githubusercontent.com/49799691/233747161-b49c2e04-086b-4e13-ab63-ceb98f0fb98f.png)
-![image](https://user-images.githubusercontent.com/49799691/233747165-8aa2a023-4299-4606-abcd-41388f000c04.png)
 
